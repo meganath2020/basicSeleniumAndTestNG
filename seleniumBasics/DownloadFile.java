@@ -14,6 +14,7 @@ public class DownloadFile {
 	public static void main(String[] args) {
 		try{
 		// TODO Auto-generated method stub
+			
 		System.setProperty("webdriver.gecko.driver", "C:\\Users\\Elcot\\Desktop\\drivers\\gecko\\geckodriver.exe");  
 		WebDriver driver = new FirefoxDriver();
 		driver.navigate().to("http://www.java2s.com/Code/Jar/o/Downloadojdbc14jar.htm");

@@ -8,9 +8,10 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class ScrollPage {
 
-	public static void main(String[] args) throws InterruptedException {
+	public static void main(String[] args) throws InterruptedException  {
 		// TODO Auto-generated method stub
-		System.setProperty("webdriver.gecko.driver", "C:\\Users\\Elcot\\Desktop\\drivers\\gecko\\geckodriver.exe");  
+		//WebDriverManager.chromedriver().setup();
+	
 		WebDriver driver = new FirefoxDriver();
 		driver.navigate().to("http://www.echoecho.com/htmlforms11.htm");
 		

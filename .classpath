@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Aentertainment/hp old lapop files/Learning and Resume/learning/Testing/selenium/downloads/bson-4.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Aentertainment/hp old lapop files/Learning and Resume/learning/Testing/selenium/downloads/extentreports-5.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Aentertainment/hp old lapop files/Learning and Resume/learning/Testing/selenium/downloads/freemarker-2.3.31.jar"/>
+	<classpathentry kind="lib" path="C:/Aentertainment/hp old lapop files/Learning and Resume/learning/Testing/selenium/downloads/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Aentertainment/hp old lapop files/Learning and Resume/learning/Testing/selenium/downloads/mysql-connector-java-8.0.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anu/Downloads/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Aentertainment/hp old lapop files/Learning and Resume/learning/Testing/selenium/downloads/log4j-1.2.17/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Aentertainment/hp old lapop files/Learning and Resume/learning/Testing/selenium/downloads/poi-bin-5.0.0-20210120/poi-ooxml-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Aentertainment/hp old lapop files/Learning and Resume/learning/Testing/selenium/downloads/poi-bin-5.0.0-20210120/oo xml schemas jar_files/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Aentertainment/hp old lapop files/Learning and Resume/learning/Testing/selenium/downloads/poi-bin-5.0.0-20210120/oo xml schemas jar_files/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Aentertainment/hp old lapop files/Learning and Resume/learning/Testing/selenium/downloads/commons-io-2.11.0-bin/commons-io-2.11.0/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Aentertainment/hp old lapop files/Learning and Resume/learning/Testing/selenium/downloads/mail-1.5.0-b01.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
